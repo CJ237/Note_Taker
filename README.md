@@ -6,8 +6,8 @@ This project is a note taker app. It allows you to create a title of the note an
 
 ## Screenshots
 
-![alt text](Develop/images/image.png)
+![alt text](/images/image.png)
 
-![alt text](Develop/images/image-1.png)
+![alt text](/images/image-1.png)
 
-![alt text](Develop/images/image-2.png)
+![alt text](/images/image-2.png)
